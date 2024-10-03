@@ -1,0 +1,2 @@
+#define BUFFERSIZE 50000000  // 50 mb
+#define URLBUFFSIZE 1024
